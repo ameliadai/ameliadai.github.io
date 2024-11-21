@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2024-10-10
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+Our paper "<a href="https://arxiv.org/pdf/2411.08324">Are LLMs Prescient? A Continuous Evaluation using Daily News as the Oracle</a>" is accepted in NeurIPS Workshop on Adaptive Foundation Models (Oral)!
