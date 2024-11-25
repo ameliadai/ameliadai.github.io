@@ -21,7 +21,7 @@ social: true # includes social icons at the bottom of the page
 
 I am a second year master in data science at [NYU Center for Data Science](https://cds.nyu.edu), working with [Prof. Mengye Ren](https://mengyeren.com) in the [Agentic Learning AI Lab](https://agenticlearning.ai) and [Prof. Krzysztof J. Geras](https://cs.nyu.edu/~kgeras). My research interests include understanding LLMs (capabilities and limitations) and AI in healthcare. Recently, my work includes evaluating the generalization ability of LLMs and multi-modal learning for breast cancer detection.
 
-Previously, I completed my BS in Statistics at Chinese University of Hong Kong, Shenzhen. Outside of school, I also do hiphop dancing!
+Previously, I completed my BS in Statistics at The Chinese University of Hong Kong, Shenzhen. Outside of school, I also do hiphop dancing!
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 

@@ -7,4 +7,4 @@ nav_order: 5
 cv_pdf: example_pdf.pdf
 ---
 
-Please find my CV [here]().
+Please find my CV [here](../assets/pdf/amelia_dai_cv.pdf).

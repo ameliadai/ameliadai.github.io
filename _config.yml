@@ -1,5 +1,9 @@
 # -----------------------------------------------------------------------------
 # Site settings
+# RUN LOCALLY: (docker)
+# 1. docker compose pull
+# 2. docker compose up
+# 3. bundle exec jekyll serve (everytime update _config.yml, run 3 before 2)
 # -----------------------------------------------------------------------------
 
 title: Amelia (Hui) Dai # the website title (if blank, full name will be used instead)
@@ -8,7 +12,7 @@ middle_name: Hui
 last_name: Dai
 email: hd2584@nyu.edu
 description: > # the ">" symbol means to ignore newlines until "footer_text:" #A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
-  Amelia's personal website.
+  Hey! It's Amelia's personal website.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
